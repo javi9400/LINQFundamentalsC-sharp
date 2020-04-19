@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../LinqQueries-Sample-2/src/QueriesSample"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../LinqAndEntityFramework/src/LINQAndEntityFrameworkExample"
+		}
+	],
+	"settings": {}
+}
